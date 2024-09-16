@@ -1,5 +1,3 @@
 # Readme
 
 ## DevposRepo
-
-## getting started
